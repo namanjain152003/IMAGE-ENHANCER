@@ -1,5 +1,9 @@
 #1 in the src folder go to utils and in the enhanceimageApi.js put your api of picwish
 
 
-![Screenshot 2025-04-20 145621](https://github.com/user-attachments/assets/940e865b-a6fc-4cc9-a446-d4da4d6738ab)
-![Screenshot 2025-04-20 145715](https://github.com/user-attachments/assets/c685cce3-a18e-4caa-afad-3206aa8640ce)
+![Screenshot 2025-04-21 131636](https://github.com/user-attachments/assets/95a72a55-7a60-4e2d-898c-a2bc59701c17)
+
+
+
+
+![Screenshot 2025-04-21 131717](https://github.com/user-attachments/assets/7bcc8a7f-65e2-4893-930c-4c3995cf8748)
